@@ -1,0 +1,7 @@
+secure_text_encryption_decryption/
+├── main.py                 # Main application file (handles user input and workflow)
+├── encryption.py           # Encryption functions
+├── decryption.py           # Decryption functions
+├── key_manager.py          # Key generation and management
+├── utils.py                # Utility functions (error handling, helper functions)
+└── README.md               # Documentation
